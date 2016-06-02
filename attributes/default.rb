@@ -1,1 +1,2 @@
-default['elixir']['version'] = '1.2.5'
+default['elixir']['package']['version'] = nil
+default['elixir']['esl']['version'] = nil
