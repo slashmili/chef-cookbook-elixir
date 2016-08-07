@@ -1,5 +1,7 @@
 # elixir-cookbook
 
+[![Build Status](https://travis-ci.org/slashmili/chef-cookbook-elixir.svg?branch=master)](https://travis-ci.org/slashmili/chef-cookbook-elixir)
+
 TODO: Enter the cookbook description here.
 
 ## Supported Platforms
