@@ -7,7 +7,7 @@ long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))
 version          '0.1.0'
 
 depends 'erlang', '~> 3.0'
-depends 'apt', '~> 2.7'
+depends 'apt', '~> 4.0'
 depends 'git'
 depends 'github'
 depends 'libarchive'
